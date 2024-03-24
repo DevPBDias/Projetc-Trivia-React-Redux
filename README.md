@@ -1,4 +1,4 @@
-# Projetc-Trivia-React-Redux
+# Projeto-Trivia-React-Redux
 
 **- Projeto Trybe Front-end**
 **- Projeto em grupo**

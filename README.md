@@ -28,7 +28,8 @@
 <details><summary>Aprendizados</summary>
  <ul>
   <li>Estilizar uma aplicação inteira</li>
-  <li>Aprimorar conhecimento dem Redux</li>
+  <li>Aprimorar conhecimento em Redux</li>
+  <li>Mergear branchs do github</li>
   <li>Trabalhar em equipe</li>
   <li>Comunicar, dar e receber feedback e empatia</li>
 </ul>

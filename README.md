@@ -7,9 +7,6 @@
 - Eu desenvolvi a tela de ranking, a tela de jogos em pairprogramming com um colega do projeto e o css inteiro da aplicação. 
 - Foi adotado o Trello como uma metodologia ágil.
 
-## Aplicação: 
-[Gravação do Trivia](https://user-images.githubusercontent.com/98185872/197364389-799bd047-fb17-482d-91e9-55be50f0c0ec.webm)
-
 <details><summary>Stack utilizada</summary>
 <ul>
   <li>Framework: React Redux</li>
